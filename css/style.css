@@ -48,11 +48,7 @@ main{
     width: 100%;
     height: 100%;
 }
-.color-overlay{
-    width: 100%;
-    height: 100%;
-    background: var(--Softvioletopacity);
-}
+
 
 .content{
     text-align: center;
