@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+
 :root{
     --Verydarkblue: hsl(233, 47%, 7%);
     --Darkdesaturatedblue: hsl(244, 38%, 16%);
@@ -25,6 +26,8 @@ main{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    max-width: 1440px;
+    background-size: cover;
 }
 
 .card{
@@ -38,7 +41,7 @@ main{
 }
 
 .image{
-    background-image: url(/images/image-header-desktop.jpg);
+    background-image: url(./images/image-header-desktop.jpg);
     background-size: cover;
     border-radius: 0 10px 10px 0;
     overflow: hidden;
