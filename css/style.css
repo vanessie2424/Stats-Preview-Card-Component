@@ -41,7 +41,7 @@ main{
 }
 
 .image{
-    background-image: url(/images/image-header-desktop.jpg);
+    background-image: url(./images/image-header-desktop.jpg);
     background-size: cover;
     border-radius: 0 10px 10px 0;
     overflow: hidden;
