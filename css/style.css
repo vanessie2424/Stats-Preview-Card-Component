@@ -132,7 +132,7 @@ p{
      .image{
         background-image: url(../images/image-header-mobile.jpg);
         min-height: 250px;
-        min-width: 100%;
+        min-width: 200px;
         border-radius: 10px 10px 0 0;
         
 
